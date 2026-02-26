@@ -4,11 +4,11 @@
 <meta charset="UTF-8">
 <style>
   * { margin: 0; padding: 0; box-sizing: border-box; }
-  body { width: 400px; height: 400px; overflow: hidden; background: #0a0e1a; font-family: 'Georgia', serif; }
+  body { width: 600px; height: 451px; overflow: hidden; background: #0a0e1a; font-family: 'Georgia', serif; }
 
   .thumb {
-    width: 400px;
-    height: 400px;
+    width: 600px;
+    height: 451px;
     position: relative;
     background: linear-gradient(135deg, #0a0e1a 0%, #0f1c2e 50%, #0a0e1a 100%);
     overflow: hidden;
